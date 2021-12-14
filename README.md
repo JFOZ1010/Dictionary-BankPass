@@ -1,5 +1,5 @@
 # Dictionary-BankPass
-
+* SYSTEM OPERATIVE: `Kali-Linux.`
 * In this script I sequentially automate the process to create a password dictionary, for brute force attacks using a script called cupp.
 
 Requirements
